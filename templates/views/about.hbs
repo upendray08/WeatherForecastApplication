@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {{> headerlinks}}
+    <title>Weather App</title>
+</head>
+
+<body>
+    {{> navbar}}
+    <!-- main header  -->
+    <div class="container-fluid main_header">
+        <div class="row">
+            <div class="col-md-10 col-12 mx-auto">
+                <div class="row">
+                    <!-- left side of div  -->
+                    <div class="col-md-6 col-12 main_header_right">
+                        <figure>
+                            <img src="./images/about_background.png" alt="upendra" class="img-fluid"
+                                title="upendra yadav">
+                        </figure>
+
+                    </div>
+                    <!-- right side of div  -->
+                    <div class="col-md-6 col-12 main_header_left">
+                        <p>Welcome To Weather app</p>
+                        <h1>I am A <span class="text_clr">Mern stack Developer </span> student and a charming person
+                        </h1>
+                        <a href="https://www.instagram.com" target="_blank"><button>About Me</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- footer code  -->
+    {{> footer}}
+    <script src="./js/main.js"></script>
+</body>
+
+</html>
