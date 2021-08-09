@@ -4,7 +4,8 @@
   "description": "this is my complete web development project of climate",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
   },
   "author": "upendra yadav",
   "license": "ISC",
