@@ -99,4 +99,3 @@ If you would like to contribute to this project, please follow these steps:
 
 6. Your pull request will be reviewed, and upon approval, it will be merged into the main branch.
 
-Feel free to customize this `readme.md` file to suit your project's specific requirements. Make sure to keep it up to date with any changes to the application or the tech stack. Happy coding!
